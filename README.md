@@ -18,5 +18,5 @@ Follow these steps to set up and run the Bluetooth Printer App:
 
 2. Get packages:**
   ```bash
-  flutter pub get
+     flutter pub get
 
